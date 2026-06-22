@@ -1,5 +1,4 @@
-# Budget-Basket
-Supermarket Inventory and Billing System in C++
+
 # Budget Basket
 
 Budget Basket is a console-based supermarket inventory and billing system developed in C++. The project demonstrates object-oriented programming principles, file-based data management, and modular software design through a real-world retail management application.
