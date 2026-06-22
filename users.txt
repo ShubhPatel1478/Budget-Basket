@@ -1,0 +1,8 @@
+1 ADMIN admin1 admin123 Rajesh Patel
+2 ADMIN owner owner123 Shubh Patel
+3 EMPLOYEE emp1 emp123 Rahul Shah
+4 EMPLOYEE emp2 emp456 Amit Kumar
+5 EMPLOYEE emp3 emp789 Priya Desai
+6 EMPLOYEE emp4 emp321 Neha Joshi
+7 EMPLOYEE emp5 emp654 Karan Mehta
+8 EMPLOYEE silentkiller s@silent Tanishq

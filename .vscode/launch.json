@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/shubh/Desktop/Budget Basket",
+      "program": "/Users/shubh/Desktop/Budget Basket/build/Debug/outDebug"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+main
+output
+temp.txt
+*.o
+.DS_Store
